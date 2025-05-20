@@ -33,7 +33,7 @@
     <link href="/2021/06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2021/06/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/images/test.png" alt="图片引用方法二"></p><p>set http_proxy&#x3D;<a href="http://127.0.0.1:7890/">http://127.0.0.1:7890</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/images/test.png" alt="图片引用方法二"></p><p>set http_proxy&#x3D;<a href="http://127.0.0.1:7890/">http://127.0.0.1:7890</a></p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs css">hexo <span class="hljs-selector-tag">g</span> -d<br><br>hexo s<br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
